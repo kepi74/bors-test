@@ -1,2 +1,2 @@
 delete_merged_branches = true
-status = [ "GitHub Actions Demo / Explore-GitHub-Actions (push)", "GitHub Actions Demo", "Explore-GitHub-Actions"]
+status = [ "GitHub Actions Demo / Explore-GitHub-Actions (push)", "GitHub Actions Demo", "Explore-GitHub-Actions", "Explore-GitHub-Actions (push)", "Explore-GitHub-Actions (pull_request)"]
