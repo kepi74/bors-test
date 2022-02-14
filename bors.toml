@@ -2,3 +2,4 @@ delete_merged_branches = true
 required_approvals = 0
 use_squash_merge = true
 status = [ "MainJob (ubuntu-latest)" ]
+timeout_sec = 120
