@@ -1,2 +1,2 @@
 delete_merged_branches = true
-status = ["Test", "Test / MainJob", "MainJob"]
+status = ["Test (push)", "Test / MainJob (push)", "MainJob (push)"]
