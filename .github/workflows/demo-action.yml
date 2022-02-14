@@ -14,7 +14,5 @@ jobs:
       - name: List files in the repository
         run: |
           ls ${{ github.workspace }}
-      - name: Run long action
-      - run: |
-          node long-action.js
+      - run: node long-action.js
       - run: echo "🍏 This job's status is ${{ job.status }}."
