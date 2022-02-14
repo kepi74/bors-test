@@ -1,3 +1,3 @@
 const promise = new Promise((resolve) => {
-  setTimeout(() => { throw new Error('foo') }, 5_000)
+  setTimeout(() => { resolve(true) }, 1_000 * 30)
 })
